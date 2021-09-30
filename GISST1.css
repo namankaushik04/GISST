@@ -1,0 +1,150 @@
+#services-section{
+    padding-top: 20px;
+    margin-top: 17px;
+    position: relative;
+    background-color: whitesmoke;
+}
+#services-heading{
+
+        color: rgba(162, 162, 187, 0.4);
+        font-size: 120px;
+        letter-spacing: 11px;
+        display: inline-block;
+        position: absolute;
+        top: 80px;
+        left: 10px;
+        margin: 0px;
+    
+}
+#services-specs{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    left: 5%;
+    margin-top: 152px;
+}
+#second-title-left{
+    font-size: 38px;
+    color: #000;
+    line-height: 50px;
+    margin-top: auto;
+    box-sizing: border-box;
+    margin-top: -24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#second-title-right{
+    font-size: 16px;
+    color: #919198;
+    text-align: right;
+    cursor: pointer;
+    margin-top: -20%;
+}
+/* #second-title-right::after{
+    content: '';
+    width: 100%;
+    height: 2%;
+    background: #f44336;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+#second-title-right:hover::after{
+    text-decoration: underline orangered ;
+    text-decoration-line: solid;
+    letter-spacing: 1.5px; */
+
+}
+.second-section-services{
+    display: flex;
+    margin-top: 220px;
+}
+.services-desc{
+    position: relative;
+    padding: 36px 36px;
+    justify-content: space-between; 
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+}
+.services-para{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    color: #919197;
+    line-height: 26px;
+    box-sizing: border-box;
+}
+#learn-link{
+    text-decoration-line: none;
+    color: #919197;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.services-desc1{
+    float: left;
+}
+.about-gis{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 36px;
+    padding-right: 36px;
+    margin-top: 124px;
+}
+.about-gis-title{
+    font-size: 136px;
+    color: rgba(162, 162, 187, 0.4);
+    margin-top: -26px;
+    margin-left: 24px;
+    /* font-family: sans-serif; */
+    letter-spacing: 1.5px;
+}
+.about-desc{
+    display: flex;
+
+}
+.about-gis-pic{
+    height: 180px;
+}
+.about-gis-title-who{
+    font-size: 38px;
+    letter-spacing: 8px;
+    margin-left: 56px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -70px;
+}
+.about-gis-para{
+    margin-left: 56px;
+    margin-top: -12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: justify;
+    color: rgba(29, 29, 31, 0.4);
+    padding: 24px 24px;
+    line-height: 28px;
+    letter-spacing: 1.2px;
+}
+.about-number-wrapper{
+    display: flex;
+    padding: 48px 48px;
+    justify-content: space-between;
+}
+.about-number{
+    text-align: center;
+    font-size: 56px;
+    padding: 16px 16px;
+    color: rgb(196, 61, 12);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.about-number-desc{
+    font-size: 16px;
+    margin-top: 32px;
+    text-align: left;
+    color: rgba(16, 16, 17, 0.4);
+}

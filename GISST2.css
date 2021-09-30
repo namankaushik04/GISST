@@ -1,0 +1,255 @@
+#project-work-section{
+    background-color: white;
+    margin: 0%;
+}
+#project-work-heading{
+    font-size: 124px;
+    color: rgba(162, 162, 187, 0.4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    
+}
+#project-work-heading-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+#project-work-sub-heading{
+    font-size: 36px;
+    margin-left: 26px;
+    margin-top: -164px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1.8px;
+}
+#project-work-sub-heading-right{
+    font-size: 16px;
+    color: #919198;
+    text-align: right;
+    cursor: pointer;
+    margin-top: -110%;
+}
+#image-wrapper-section1{
+    display: flex;
+    background-color: whitesmoke;
+    /* height: 50%;
+    width: 50%; */
+}
+#image-wrapper-section2{
+    display: flex;
+    background-color: whitesmoke;
+    /* height: 50%;
+    width: 50%; */
+}
+.image-class-wrapper{
+    height: 300px;
+    position: relative;
+    width: 400px;
+    padding: 16px 16px;
+}
+#image-get-free-Quote{
+    background-image: linear-gradient(
+72deg
+, #e47312, rgba(255, 99, 97, 0.78)), url(/Images/construction\ 10.jpg);
+    width: 100%;
+    height: 250px;
+    ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -66px;
+    background-attachment: fixed;
+}
+#heading-image-class{
+    color: #fff;
+    text-align: center;
+    margin-top: 46px;
+    font-size: 40px;
+    padding-top: 56px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
+#subheading-image-class{
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 50;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -24px;
+}
+#subheading-image-class1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    letter-spacing: 1.4px;
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 36px;
+}
+.team-section{
+    padding-top: 20px;
+    margin-top: 17px;
+    position: relative;
+    background-color: white;
+}
+#our-team-heading{
+    color: rgba(162, 162, 187, 0.4);
+        font-size: 76px;
+        letter-spacing: 11px;
+        display: inline-block;
+        /* position: absolute; */
+        top: 80px;
+        left: 10px;
+        margin: 0px;
+}
+#team-sub-heading{
+    font-size: 26px;
+    color: #000;
+    line-height: 50px;
+    box-sizing: border-box;
+    margin-top: -52px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 32px;
+}
+#team-sub-heading-right{
+    font-size: 16px;
+    color: #919198;
+    text-align: right;
+    cursor: pointer;
+    margin-top: -70px;
+    font-weight: 300;
+    padding-right: 16px;
+}
+.team-profile{
+    display: flex;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-top: 158px;
+    justify-content: space-around;
+}
+.nitin-sir-pic{
+    height: 300px;
+    width: 300px;
+}
+.gagandeep-sir-pic{
+    height: 300px;
+    width: 300px;
+}
+.team-profile-name{
+    padding-left: 12px;
+    font-size: 16px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 24px;
+}
+.team-postion{
+    color: #919198;
+    font-weight: 400;
+    padding-left: 20px;
+    margin-top: 4px;
+    font-family: serif;
+}
+
+.director-social1{
+    /* display: flex; */
+    width: 24px;
+    height: 24px;
+    background-color: orangered;
+}
+.testinomial-section{
+    display: flex;
+    background-color: #fff;
+    justify-content: space-between;
+    margin-top: -248px;
+}
+.testinomial-background-heading{
+    color: rgba(162, 162, 187, 0.4);
+        font-size: 98px;
+        letter-spacing: 11px;
+        display: inline-block;
+        /* position: absolute; */
+        /* top: 80px; */
+        left: 10px;
+        margin-top: 516px;
+        font-weight: 300;
+}
+.testinomial-background-subheading{
+    font-size: 36px;
+    margin-left: 16px;
+    margin-top: -56px;
+}
+.testinomial-para{
+    margin-left: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(162, 162, 187, 0.6);
+    margin-top: 12px;
+    margin-bottom: 16px;
+}
+.learn-more-testinomial{
+    margin-left: 16px;
+    margin-top: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(162, 162, 187, 0.6);
+    font-size: 12px;
+    cursor: pointer;
+    width: 6%;
+    display: inline;
+}
+.testinomial-card{
+    display: flex;
+    justify-content: space-around;
+}
+.testinomial-person1{
+    width: 12%;
+    margin-top: 358px;
+    margin-left: 98px;
+}
+.testinomial-pic{
+    width: 120px;
+    height: 120px;
+}
+.testinomial-name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    margin-left: 24px;
+}
+.testinomial-designation{
+    color: rgba(162, 162, 187, 0.6);
+    margin-bottom: 6px;
+    margin-left: 24px;
+}
+.testinomial-para2{
+    text-align: center;
+    margin-left: 0px;
+    color: rgba(36, 36, 37, 0.6);
+
+}
+.testinomial-person2{
+        width: 12%;
+        margin-top: 358px;
+        margin-left: 98px;
+}
+.testinomial-pic2{
+        width: 120px;
+        height: 120px;
+}
+.testinomial-name2{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 16px;
+        margin-top: 16px;
+        margin-bottom: 6px;
+        margin-left: 24px;
+}
+.testinomial-designation2{
+        color: rgba(162, 162, 187, 0.6);
+        margin-bottom: 6px;
+        margin-left: 24px;
+}
+.testinomial-para2{
+        text-align: center;
+        margin-left: 0px;
+        color: rgba(36, 36, 37, 0.6);
+    
+}
+
+
